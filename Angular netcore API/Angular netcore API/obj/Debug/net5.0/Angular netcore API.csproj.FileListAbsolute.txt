@@ -1,0 +1,33 @@
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\appsettings.Development.json
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\appsettings.json
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Angular netcore API.exe
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Angular netcore API.deps.json
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Angular netcore API.runtimeconfig.json
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Angular netcore API.runtimeconfig.dev.json
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Angular netcore API.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\ref\Angular netcore API.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Angular netcore API.pdb
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.csproj.AssemblyReference.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.GeneratedMSBuildEditorConfig.editorconfig
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.AssemblyInfoInputs.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.AssemblyInfo.cs
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.csproj.CoreCompileInputs.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.MvcApplicationPartsAssemblyInfo.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\staticwebassets\Angular netcore API.StaticWebAssets.Manifest.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\staticwebassets\Angular netcore API.StaticWebAssets.xml
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\scopedcss\bundle\Angular netcore API.styles.css
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.RazorTargetAssemblyInfo.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.csproj.CopyComplete
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\ref\Angular netcore API.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.pdb
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.genruntimeconfig.cache
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\EPPlus.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+M:\Programming\angular API\Angular netcore API\Angular netcore API\obj\Debug\net5.0\Angular netcore API.MvcApplicationPartsAssemblyInfo.cs
+M:\Programming\angular API\Angular netcore API\Angular netcore API\bin\Debug\net5.0\Newtonsoft.Json.dll
